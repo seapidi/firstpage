@@ -1,0 +1,30 @@
+#logo{
+    width: 1000px;margin: auto;font-size: 26px;padding: 10px 0;
+}
+#logo a{
+    color: #ffffff;text-decoration: none;text-shadow: 1px 1px 1px #999;
+}
+#nav{
+    width: 1000px;margin: auto;padding: 30px 0 40px 0;
+}
+#nav a{
+    color: #C93282;text-decoration: none;font-size: 15px;width: 100px;display: block;float: left;text-shadow: 1px 1px 1px #ffffff;
+}
+.article{width: 1000px;margin: auto;}
+.l_box{width: 300px;float: left}
+.l_box h2{color:#333;font-size: 14px;line-height: 30px;padding-left: 20px;background: #ffffff;}
+.l_box div{background:rgba(255,255,255,0.5) }
+.about_me img{width: 100px;height:80px;padding-left:10px;padding-right:10px;float:left}
+.about_me p{padding-left: 10px;padding-bottom: 20px;line-height: 24px;color: #666666}
+.photo img{width: 90px;height: 80px;padding-left: 5px;overflow: hidden}
+.photo img:hover { transform: scale(1.05) }
+.r_box{width:660px;float:right;}
+.r_box li{background: rgba(255,255,255,0.8);margin: 15px;padding:15px;list-style-type: none}
+.r_box li a{color:#333;font-size: 15px;text-decoration: none;}
+.r_box li a:hover{color:#C93282}
+.r_box li img{width:120px;height: 80px;float:right;}
+.r_box li img:hover{transform: scale(1.05)}
+.r_box li p{color:#666;}
+.textarea {width: 1000px;margin: auto;}
+.textarea textarea{color: #333;}
+.display{width: 1000px;height: 200px;margin: auto}
